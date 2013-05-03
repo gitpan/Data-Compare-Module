@@ -24,11 +24,12 @@ no_index:
     - examples
 requires:
   List::Compare: 0
+  Readonly: 0
   perl: 5.008005
 resources:
   bugtracker: https://github.com/limitusus/Data-Compare-Module/issues
   homepage: https://github.com/limitusus/Data-Compare-Module
   repository: https://github.com/limitusus/Data-Compare-Module.git
-version: 0.02
+version: 0.03
 x_contributors:
   - 'limitusus <limit.usus@gmail.com>'
